@@ -1,0 +1,5 @@
+name = input('輸入員警編號：') 
+print('您好', name)
+體重 = input('請問你的體重')
+身高 = input('請問你的身高')
+print('請確認', 身高, 體重)
